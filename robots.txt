@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smp.hermin.com/sitemap.xml
